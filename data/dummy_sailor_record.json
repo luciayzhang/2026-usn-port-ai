@@ -1,0 +1,27 @@
+{
+  "sailor_id": "USN-PS-001",
+  "name": "Popeye Sailorman",
+  "unit": "NRC Sweethaven",
+  "next_drill_weekend": "2026-07-11",
+  "outstanding_requirements": [
+    {
+      "requirement": "PHA",
+      "status": "Due Soon",
+      "days_until_due": 21,
+      "category": "Medical"
+    },
+    {
+      "requirement": "Cyber Awareness",
+      "status": "Expiring",
+      "days_until_due": 14,
+      "category": "Training"
+    },
+    {
+      "requirement": "Annual Training Plan",
+      "status": "Not Started",
+      "days_until_due": 45,
+      "category": "Opertaional"
+    }
+  ],
+  "human_review_required": true
+}

@@ -1,0 +1,22 @@
+{
+  "PHA": {
+    "source": "Readiness Guide",
+    "guidance": "Complete the electronic PHA before Drill Weekend. Email the Medical Records point of contact to request an in-person PHA with a medical provider during Drill Weekend.",
+    "requires_human_review": true
+  },
+  "Dental": {
+    "source": "Readiness Guide",
+    "guidance": "Dental screening is usually handled as a walk-in process during Drill Weekend.",
+    "requires_human_review": false
+  },
+  "Cyber Awareness": {
+    "source": "Training Guide",
+    "guidance": "Complete Cyber Awareness training on Navy eLearning before due date to maintain training compliance.",
+    "requires_human_review": false
+  },
+  "Annual Training Plan": {
+    "source": "Operational Guide",
+    "guidance": "Coordinate proposed Annual Training dates with unit leadership before submitting requests through official channels.",
+    "requires_human_review": true
+  }
+}
